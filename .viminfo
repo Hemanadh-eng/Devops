@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1658340143,,"wq"
+|2,0,1658746384,,"wq"
 :q
 |2,0,1658319170,,"q"
 :%d
@@ -86,22 +86,46 @@
 |<"  examples web application. They are wrapped in a comment and thus are ignored","  when reading this file. If you wish to configure these users for use with the","  examples web application, do not forget to remove the <!.. ..> that surrounds","  them. You will also need to set the passwords to something appropriate.","-->","<!--","  <role rolename=\"tomcat\"/>"
 
 # File marks:
-'0  1  30  ~/Myproject/java
-|4,48,1,30,1658340143,"~/Myproject/java"
-'1  1  15  ~/Myproject/java
-|4,49,1,15,1658339705,"~/Myproject/java"
-'2  64  0  /etc/ssh/sshd_config
-|4,50,64,0,1658319732,"/etc/ssh/sshd_config"
-'3  1  0  /etc/ssh/sshd_config
-|4,51,1,0,1658319170,"/etc/ssh/sshd_config"
-'4  1  0  /etc/ssh/sshd_config
-|4,52,1,0,1658319170,"/etc/ssh/sshd_config"
-'5  4  0  /etc/tomcat9/tomcat-users.xml
-|4,53,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+'0  3  39  ~/Myproject/Hemu
+|4,48,3,39,1658746384,"~/Myproject/Hemu"
+'1  1  35  ~/Myproject/Hemu
+|4,49,1,35,1658732136,"~/Myproject/Hemu"
+'2  1  35  ~/Myproject/Hemu
+|4,50,1,35,1658732136,"~/Myproject/Hemu"
+'3  1  30  ~/Myproject/java
+|4,51,1,30,1658340143,"~/Myproject/java"
+'4  1  15  ~/Myproject/java
+|4,52,1,15,1658339705,"~/Myproject/java"
+'5  64  0  /etc/ssh/sshd_config
+|4,53,64,0,1658319732,"/etc/ssh/sshd_config"
+'6  1  0  /etc/ssh/sshd_config
+|4,54,1,0,1658319170,"/etc/ssh/sshd_config"
+'7  1  0  /etc/ssh/sshd_config
+|4,55,1,0,1658319170,"/etc/ssh/sshd_config"
+'8  4  0  /etc/tomcat9/tomcat-users.xml
+|4,56,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
 
 # Jumplist (newest first):
+-'  3  39  ~/Myproject/Hemu
+|4,39,3,39,1658746384,"~/Myproject/Hemu"
+-'  1  35  ~/Myproject/Hemu
+|4,39,1,35,1658746365,"~/Myproject/Hemu"
+-'  1  35  ~/Myproject/Hemu
+|4,39,1,35,1658732136,"~/Myproject/Hemu"
 -'  1  30  ~/Myproject/java
 |4,39,1,30,1658340143,"~/Myproject/java"
+-'  1  30  ~/Myproject/java
+|4,39,1,30,1658340143,"~/Myproject/java"
+-'  1  30  ~/Myproject/java
+|4,39,1,30,1658340143,"~/Myproject/java"
+-'  1  30  ~/Myproject/java
+|4,39,1,30,1658340143,"~/Myproject/java"
+-'  1  15  ~/Myproject/java
+|4,39,1,15,1658339705,"~/Myproject/java"
+-'  1  15  ~/Myproject/java
+|4,39,1,15,1658339705,"~/Myproject/java"
+-'  1  15  ~/Myproject/java
+|4,39,1,15,1658339705,"~/Myproject/java"
 -'  1  15  ~/Myproject/java
 |4,39,1,15,1658339705,"~/Myproject/java"
 -'  64  0  /etc/ssh/sshd_config
@@ -112,6 +136,30 @@
 |4,39,64,0,1658319732,"/etc/ssh/sshd_config"
 -'  64  0  /etc/ssh/sshd_config
 |4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
+-'  64  0  /etc/ssh/sshd_config
+|4,39,64,0,1658319732,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1658319684,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
@@ -120,6 +168,54 @@
 |4,39,1,0,1658319684,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319684,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1658319170,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1658319170,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
@@ -160,40 +256,67 @@
 |4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
 -'  4  0  /etc/tomcat9/tomcat-users.xml
 |4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
--'  1  0  /etc/tomcat9/tomcat-users.xml
-|4,39,1,0,1658318414,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
+-'  4  0  /etc/tomcat9/tomcat-users.xml
+|4,39,4,0,1658318612,"/etc/tomcat9/tomcat-users.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/Myproject/Hemu
+	*	1658746381	0
+	"	3	39
+	^	3	40
+	.	3	39
+	+	1	35
+	+	2	0
+	+	3	39
 
 > ~/Myproject/java
 	*	1658340140	0

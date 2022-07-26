@@ -275,3 +275,59 @@ git branch -M main
 clear
 git branch -M main
 git push -u origin main
+history
+git branch -M main
+git -list
+git log
+git status
+git -add.
+git add .
+git -commit
+git status
+git restore --staged
+git restore --staged HR
+git restore --staged Myproject/HR
+git status
+git remote -v
+git push -u origin main
+git remote add origin https://github.com/hemanadh2/Devops.git
+git branch -M main
+git push -u origin main
+history
+git branch -M main
+git remote -v
+man git remote -v
+ls
+cd Myproject
+cd HR
+ls
+touch Hemu
+vim Hemu
+git add Hemu
+Git commit -m "Git"
+git commit -m "Git"
+git log
+git log --line
+git log --
+git push -u origin main
+history
+git log --oneline
+git branch
+ls
+history
+git pull
+ll
+vim Hemu
+nano Hemu
+git add Hemu
+git commit -m "accesskey"
+git push -u origin main
+history
+git push -u origin main
+git pull
+ll
+nano user1
+cat user1
+git pull
+ll
+clear
